@@ -1,4 +1,4 @@
-# **APP Folha de pagamento**
+# **APP Calculo de salario**
 
 > um aplicativo de folha de pagamento para calcular o salário de um funcionário.
 
